@@ -531,3 +531,8 @@ footer {
   cursor: pointer;
   padding: 8px 24px;
 }
+
+.sub-icon {
+  width: 24px;
+  height: 24px;
+}
